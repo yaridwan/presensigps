@@ -35,7 +35,7 @@
             </div>
             <div class="section mt-1">
                 <h1>Selamat Datang</h1>
-                <h4>Fill the form to log in</h4>
+                <h4>Silahkan Masukan Username dan Password Untuk Masuk Ke Sistem</h4>
             </div>
             <div class="section mt-1 mb-5">
                 <form action="app-pages.html">
@@ -59,7 +59,7 @@
 
                     <div class="form-links mt-2">
                         <div>
-                            <a href="page-register.html">Register Now</a>
+                          
                         </div>
                         <div><a href="page-forgot-password.html" class="text-muted">Forgot Password?</a></div>
                     </div>
