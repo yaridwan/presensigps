@@ -1,7 +1,3 @@
-<div id="appCapsule">
-        @yield("content")
-    </div>
-    <!-- * App Capsule -->
 
 
     <!-- App Bottom Menu -->
