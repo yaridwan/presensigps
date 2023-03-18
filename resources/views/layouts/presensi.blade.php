@@ -42,7 +42,7 @@
     <!-- * App Bottom Menu -->
 
 
-
+    @include('layouts.script')
 
     <!-- ///////////// Js Files ////////////////////  -->
     <!-- Jquery -->
