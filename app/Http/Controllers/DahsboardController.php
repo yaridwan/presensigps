@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class DahsboardController extends Controller
 {
     public function index(){
-        return
+        return view(dashboard.dashboard);
     }
 }
