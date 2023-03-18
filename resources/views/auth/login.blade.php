@@ -31,10 +31,10 @@
 
         <div class="login-form mt-1">
             <div class="section">
-                <img src="assets/img/sample/photo/vector4.png" alt="image" class="form-image">
+                <img src="{{asset('assets/img/login.png')}}" alt="image" class="form-image">
             </div>
             <div class="section mt-1">
-                <h1>Get started</h1>
+                <h1>Selamat Datang</h1>
                 <h4>Fill the form to log in</h4>
             </div>
             <div class="section mt-1 mb-5">
